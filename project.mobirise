@@ -1,0 +1,869 @@
+{
+  "settings": {
+    "name": "ClaudiomirRepresentacoes",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.10.1",
+    "uniqCompNum": 24,
+    "versionPublish": "3.10.3",
+    "favicon": "@PROJECT_PATH@/assets/images/catalogo-cattani-2z-128x40-79.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#28324e"
+            },
+            ".mbr-navbar__section": {
+              "background": "#28324e"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1",
+          "_params": {
+            "color": "#28324e",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/catalogo-cattani-2z-401x128-36.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"produtos.html#content1-n\">CARACTERISTICAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-c\">FOTOS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-3\">FUNCIONAMENTO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-8\">CONTATO</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">FALE CONOSCO</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "P": {
+              "color": "#28324e"
+            },
+            "H1": {
+              "color": "#6a6f79",
+              "text-align": "right",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "B": {
+              "color": "#c1c1c1"
+            },
+            "SPAN": {
+              "color": "#475577",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/weqrp-2000x1258-70.jpg",
+                "contentAlign": "left",
+                "overlay": false,
+                "showTitle": true,
+                "title": "<span style=\"color: rgb(106, 111, 121); text-align: right;\">PORTA SECCIONAL</span><br>AMADEIRADA",
+                "showText": false,
+                "text": "<b>Chega ao Brasil com força na região sul do pais este modelo de portão de alta tecnologia, acabamento e design.</b>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"produtos.html\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">Fale conosco</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/lp-2000x1128-80.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "showTitle": true,
+                "title": "PORTA SECCIONAL<br>BRANCA",
+                "showText": false,
+                "text": "<b></b>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"produtos.html\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a> "
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": false
+          },
+          "_anchor": "slider-2",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "features1-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/14199185-337034836632831-1919762942877832367-n-600x600-15.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "index.html#form1-9",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "SEJA UM PARCEIRO",
+          "caption1": "Possuímos diversas maneiras de parceria, nossa força de divulgação e captação, unída a qualidade e segurança de nosso produto, permite que ofereçamos preços direto de fábrica para você amigo representante.",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-9\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Entre em contato</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/14590229-354106408259007-9063576610412130127-n-600x600-77.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "FUNCIONAMENTO",
+          "caption2": "&nbsp;Formada por painéis com dupla camada de aço&nbsp;com 40mm de poliuretano injetado de alta densidade&nbsp;a base de água e livre de cfc. Estes painéis se deslocam&nbsp;em&nbsp;trilhos laterais que ocupam menos de 10cm em cada lateral da garagem.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"produtos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/14291626-336035306732784-41821802811580910-n-600x600-39.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "PORTA SECCIONAL AMADEIRADA",
+          "caption3": "Porta seccional modelo europeu, na cor amadeirado nogal nobre.<br>Com um primer de PVC aplicado dando resistência e durabilidade.<br><br><br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"produtos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/14225434-334188380250810-3355312626174707097-n-600x600-89.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "PORTA SECCIONAL <br>BRANCA",
+          "caption4": "Porta seccional modelo europeu,<br>com pintura eletrostática, na cor branca com textura gofratta, que garante maior durabilidade e acabamento.<br><br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"produtos.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3",
+          "_params": {
+            "imageSize": "54",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=RGiN1Y5s3Ts",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "Porta Seccional",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Assista ao lado, o funcionamento desta porta seccional modelo Europeu, que lhe fornece espa\bço, design e segurança.</p><p>Este modelo de abertura não oferece risco de bater em um veiculo que tenha ficado muito próximo ao portão assim como também não oferece risco a pedestres que estejam passando quando o mesmo está abrindo.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"produtos.html\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-k",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=YmlnHneKu8E",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "headerAlign": "left",
+          "title": "PORTA SECCIONAL",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Abertura em sentido vertical proporcionando abertura total do vão.</p><p>Quando a porta está aberta todos os painéis ficam posicionados no teto da garagem ou dentro do forro.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"produtos.html\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/14291626-336035306732784-41821802811580910-n-2000x2000-6-800x800-61.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14291626-336035306732784-41821802811580910-n-2000x2000-6.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/14330109-339844076351907-7006259166654325959-n-2000x2000-18-800x800-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14330109-339844076351907-7006259166654325959-n-2000x2000-18.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/15355783-384039218599059-3768076663689745499-n-2000x2000-39-800x800-95.png",
+                "image": "@PROJECT_PATH@/assets/images/15355783-384039218599059-3768076663689745499-n-2000x2000-39.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/15267504-382770735392574-1133267449248211702-n-2000x2000-66-800x800-61.png",
+                "image": "@PROJECT_PATH@/assets/images/15267504-382770735392574-1133267449248211702-n-2000x2000-66.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/15220265-375848129418168-6711035015533447808-n-2000x2000-81-800x800-67.png",
+                "image": "@PROJECT_PATH@/assets/images/15220265-375848129418168-6711035015533447808-n-2000x2000-81.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/14390655-343196666016648-2967118410009543239-n-2000x2000-83-800x800-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14390655-343196666016648-2967118410009543239-n-2000x2000-83.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/14590229-354106408259007-9063576610412130127-n-2000x2000-83-800x800-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14590229-354106408259007-9063576610412130127-n-2000x2000-83.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/14642329-356452768024371-7419647248691733662-n-2000x2000-39-800x800-43.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14642329-356452768024371-7419647248691733662-n-2000x2000-39.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/14731142-357887571214224-6812902895173451073-n-2000x2000-18-800x800-33.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14731142-357887571214224-6812902895173451073-n-2000x2000-18.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/15380707-386667641669550-7245601468562175813-n-2000x2000-16-800x800-97.png",
+                "image": "@PROJECT_PATH@/assets/images/15380707-386667641669550-7245601468562175813-n-2000x2000-16.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/14907094-364967877172860-6862147368946263614-n-2000x2000-17-800x800-81.png",
+                "image": "@PROJECT_PATH@/assets/images/14907094-364967877172860-6862147368946263614-n-2000x2000-17.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/14523221-362026177467030-7387324204859619923-n-2000x2000-60-800x800-29.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14523221-362026177467030-7387324204859619923-n-2000x2000-60.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-c",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-9",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Fale conosco",
+          "form": {
+            "action": "m.barcellos.c@gmail.com",
+            "alerts": {
+              "success": "Obrigado pelo contato, entraremos em contato o mais breve possível!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "B": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "10px"
+            }
+          },
+          "_anchor": "contacts2-8",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": " CENTRO CANOAS RIO GRANDE DO SUL",
+              "placeId": "ChIJcVUeAqh6GZURhvUYdQ9G3tA",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>Endereço:</b><br><b>Centro de Canoas - Rio Grande do Sul</b><br><br>\n<strong>CONTATOS</strong><br><b>claudiomir@claudiomirrepresentacoes.com.br<br>\nCel / WhatsApp: 051-99967.4993 </b><br><br>",
+          "text2": "<ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><br></li></ul>"
+        }
+      ]
+    },
+    "produtos.html": {
+      "settings": {
+        "title": "Portas seccionais claudiomirrepresentacoes",
+        "meta_descr": "Portas seccionais\nPortao seccional\nPorta seccional\nPortao de garagem\nPortão amadeirado"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-d",
+          "_params": {
+            "color": "#28324e",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/catalogo-cattani-2z-401x128-36.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"produtos.html#content1-n\">CARACTERISTICAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-c\">FOTOS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-3\">FUNCIONAMENTO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-8\">CONTATO</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">FALE CONOSCO</a></li>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article H3": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-j",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "PORTAS SECCIONAIS RESIDÊNCIAIS<br><div>Portões Seccionais Residenciais automáticos, modelo utilizado na Europa e EUA.</div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-h",
+          "text": "<ul><li><b>Linha residêncial</b> – A linha de portas residênciais mais utilizadas na Europa e nos EUA como portas de garagem, agora fabricadas no Brasil, possuem alto nível de acabamento e design, proporcionam conforto, isolamento térmico e acústico, facilidade de limpeza, vedação contra vento, poeira e umidade, possuem alta resistência a maresia e oxidação, não são atacadas por insetos ou roedores, além dos diferencias tecnológicos como a reversão anti esmagamento e a possibilidade do uso de sistema de no-break. Podem ser utilizadas em quase todo o tipo de garagem.</li></ul><p><b><br></b></p><p><b>PADRÃO DE CORES</b></p><ul><li>Branco – Gofratto RAL 9010</li><li>Amadeirado – Nogal nobre (onde é aplicada um \"primer\" de PVC com imitação idêntica a madeira, porem com maior durabilidade e resistência.)<br></li></ul><p><br></p><p><b>TECNOLOGIA EMPREGADA GARANTE</b></p><ul><li>&nbsp;Design e sofisticação</li><li>&nbsp;Placas de aço galvanizado com pintura eletrostática</li><li>&nbsp;Excelente aproveitamento de espaço, ideal para garagens com pequeno espaço ou para garagens de grande vão</li><li>&nbsp;Tecnologia especial (Não mofa, Não  enferruja, Não proliféra cupins e roedores)</li><li>&nbsp;Isolamento térmico e acústico. Ideal para os mais diversos ambientes</li><li>&nbsp;Camada dupla de aço, com 40mm de poliuretano de alta densidade  injetado</li><li>&nbsp;Sistema de destravamento manual em caso de falta de energia</li><li>&nbsp;Dispositivos de segurança como, sensor anti-esmagamento e sensor infra-vermelho</li><li>&nbsp;Sistema de nobreak (possibilita funcionamento mesmo em falta de energia)</li><li>&nbsp;Possibilidade de acionamento manual</li><li>&nbsp;Acabamento arquitetônico</li><li>&nbsp;Galvanização</li></ul>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article UL": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-l",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1427464407917-c817c9a0a6f6-2000x1364-38.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "VANTAGENS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<ul><li><b>BAIXO INDÍCE DE MANUTENÇÃO, </b></li><li><b>APROVEITAMENTO DE ESPAÇO,</b></li><li><b> MATERIAL GALVANIZADO,</b></li><li><b> ALTA RESISTÊNCIA A OXIDAÇÃO,</b></li><li><b> ISOLAMENTO TÉRMICO E ACÚSTICO, &nbsp;</b></li><li><b>BAIXA EMISSÃO DE RUÍDOS, </b></li><li><b>NÃO TÓXICO, </b></li><li><b>NÃO DESCOLA,</b></li><li><b> NÃO MOFA,</b></li><li><b> NÃO É ATACADO POR INSETOS OU ROEDORES,</b></li><li><b> NÃO PROPAGAM CHAMAS, </b></li><li><b>PROJETADO PARA MULTIPLOS ACIONAMENTOS, </b></li><li><b>DESTRAVAMENTO MANUAL</b></li></ul>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-n",
+          "text": "<p><b>Caracteristicas</b></p><p>Formada por painéis com dupla camada de aço com 40mm de poliuretano injetado de alta densidade a base de água e livre de cfc. Estes painéis se deslocam através rodizios de aço revestidos por nylon (o que reduz o barulho),em trilhos laterais que ocupam menos de 10cm em cada lateral da garagem.</p><ul><li>Sistema (porta) minuciosamente calculado, é tracionado por mola, e motor certificado;</li><li>O acionamento pode ser realizado por controle remoto ou botoeira;</li></ul><p><b>Segurança</b></p><ul><li>&nbsp;Porta Seccional <b>Claudiomirrepresentações</b>, possui sistema trava quedas, que protegem você</li></ul><p>e sua família caso algum cabo venha a se romper, ao contrario dos defasados portões de contra</p><p>peso ou basculante.</p>"
+        },
+        {
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-g",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "youtube": "https://www.youtube.com/channel/Portas Seccionais",
+            "facebook": "https://www.facebook.com/claudiomirrep/",
+            "twitter": "",
+            "google": "",
+            "postToLoad": "4",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1428604467652-115d9d71a7f1-2000x1333-99.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#475577",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f"
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "B": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "10px"
+            }
+          },
+          "_anchor": "contacts2-e",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": " CENTRO CANOAS RIO GRANDE DO SUL",
+              "placeId": "ChIJcVUeAqh6GZURhvUYdQ9G3tA",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>Endereço:</b><br><b>Centro de Canoas - Rio Grande do Sul</b><br><br>\n<strong>CONTATOS</strong><br><b>claudiomir@claudiomirrepresentacoes.com.br<br>\nCel / WhatsApp: 051-99967.4993 </b><br><br>",
+          "text2": "<ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><br></li></ul>"
+        }
+      ]
+    }
+  }
+}

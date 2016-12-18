@@ -1,0 +1,115 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+#ext_menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #28324e;
+}
+#ext_menu-1 .mbr-navbar__section {
+  background: #28324e;
+}
+#ext_menu-1 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#slider-2 P {
+  color: #28324e;
+}
+#slider-2 H1 {
+  color: #6a6f79;
+  text-align: right;
+  font-family: 'Roboto', sans-serif;
+}
+#slider-2 B {
+  color: #c1c1c1;
+}
+#slider-2 SPAN {
+  color: #475577;
+  text-align: center;
+}
+#features1-4 P {
+  text-align: left;
+}
+#msg-box5-3 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-3 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-3 .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-k .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-k .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-k .mbr-article {
+  color: #ffffff;
+}
+#contacts2-8 B {
+  color: #ffffff;
+}
+#contacts2-8 STRONG {
+  color: #ffffff;
+}
+#contacts2-8 P {
+  color: #ffffff;
+  text-align: left;
+  font-size: 10px;
+}
+#ext_menu-d .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-d.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-d .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-d .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#content5-j .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-j .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-j .mbr-article {
+  color: #fff;
+}
+#content5-j .mbr-article H3 {
+  text-align: center;
+}
+#content1-h P {
+  text-align: left;
+}
+#content5-l .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+}
+#content5-l .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-l .mbr-article {
+  color: #fff;
+}
+#content5-l .mbr-article UL {
+  color: #ffffff;
+}
+#contacts2-e B {
+  color: #ffffff;
+}
+#contacts2-e STRONG {
+  color: #ffffff;
+}
+#contacts2-e P {
+  color: #ffffff;
+  text-align: left;
+  font-size: 10px;
+}
